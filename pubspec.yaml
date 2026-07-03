@@ -1,0 +1,8 @@
+flutter:
+  assets:
+    - assets/logo.png
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.17.0
